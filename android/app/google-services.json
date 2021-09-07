@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "159938038156",
+    "project_id": "reservapp-21",
+    "storage_bucket": "reservapp-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159938038156:android:7c3518fbeae7c2b2c6eea9",
+        "android_client_info": {
+          "package_name": "com.example.reservapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159938038156-t0doi7o0ts37moifvqul4hmcosdsvnb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHf0UhMJT5hZb5zYMPeN23SdVSBZglSoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159938038156-t0doi7o0ts37moifvqul4hmcosdsvnb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159938038156:android:4146f14818ba52d3c6eea9",
+        "android_client_info": {
+          "package_name": "com.juansilva.reservapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159938038156-t0doi7o0ts37moifvqul4hmcosdsvnb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHf0UhMJT5hZb5zYMPeN23SdVSBZglSoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159938038156-t0doi7o0ts37moifvqul4hmcosdsvnb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
